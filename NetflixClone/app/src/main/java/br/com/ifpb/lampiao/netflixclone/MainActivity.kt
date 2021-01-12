@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         supportActionBar!!.hide()
 
         Handler().postDelayed({abrirTelaLogin()},3000)
+        
     }
     private fun abrirTelaLogin(){
         var intent = Intent(this,FormLogin::class.java)

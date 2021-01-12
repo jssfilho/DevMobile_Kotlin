@@ -10,10 +10,12 @@ class FormLogin : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_form_login)
 
+
         var cadastro = findViewById<TextView>(R.id.text_cadastrar)
         cadastro.setOnClickListener {
             AbrirTelaDeCadastro()
         }
+
     }
     private fun AbrirTelaDeCadastro(){
         var intent = Intent(this,FormCadastro::class.java)

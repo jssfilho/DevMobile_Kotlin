@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1006163869857",
+    "project_id": "netflix-clone-c5188",
+    "storage_bucket": "netflix-clone-c5188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006163869857:android:0187c6d75d915d17bd30e0",
+        "android_client_info": {
+          "package_name": "br.com.ifpb.lampiao.netflixclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006163869857-fkr0h25dtohue477eq0tli545jvobc9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ifpb.lampiao.netflixclone",
+            "certificate_hash": "7a05951d76a5e5dc60bdd8b44e7bc7a85e8f1af6"
+          }
+        },
+        {
+          "client_id": "1006163869857-amopag7l6mn9ql3fapai6kdvorube033.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmSj73KjdHG1RTDE_kBmu2sX_jioK77t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006163869857-amopag7l6mn9ql3fapai6kdvorube033.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
