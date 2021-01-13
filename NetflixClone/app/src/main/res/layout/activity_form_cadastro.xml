@@ -8,7 +8,7 @@
     android:orientation="vertical"
     tools:context=".FormCadastro">
     <EditText
-        android:id="@+id/email"
+        android:id="@+id/edit_email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/edit_text"
@@ -19,9 +19,10 @@
         android:hint="Email"
         android:inputType="textEmailAddress"
         android:textColorHint="@color/white"
+        android:textColor="@color/white"
         />
     <EditText
-        android:id="@+id/senha"
+        android:id="@+id/edit_senha"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/edit_text"
@@ -32,6 +33,7 @@
         android:padding="20dp"
         android:hint="Senha"
         android:textColorHint="@color/white"
+        android:textColor="@color/white"
         />
     <TextView
         android:id="@+id/mensagem_erro"
