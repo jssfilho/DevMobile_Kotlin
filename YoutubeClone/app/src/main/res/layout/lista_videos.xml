@@ -12,6 +12,7 @@
         android:scaleType="centerCrop"
         />
     <TextView
+        android:id="@+id/tempoVideo"
         android:layout_width="50dp"
         android:layout_height="20dp"
         android:text="15:00"
