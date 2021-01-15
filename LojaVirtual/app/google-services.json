@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "224136378886",
+    "project_id": "loja-virtual-da9af",
+    "storage_bucket": "loja-virtual-da9af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224136378886:android:ce56f9a7d043531f03e187",
+        "android_client_info": {
+          "package_name": "br.edu.ifpb.lampiao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224136378886-3br0gugher2hdkgqhec7mfooneurcf0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifpb.lampiao",
+            "certificate_hash": "dc45183940e6e7695bf2e98671df59d95311f53b"
+          }
+        },
+        {
+          "client_id": "224136378886-l1mlr9ocr18edmq8fvejelbo1kj5j603.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqdV-W6CKPe_rBPKHAkb5YcqEf1BLiv3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224136378886-l1mlr9ocr18edmq8fvejelbo1kj5j603.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
