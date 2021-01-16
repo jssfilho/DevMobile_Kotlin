@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "224136378886",
-    "project_id": "loja-virtual-da9af",
-    "storage_bucket": "loja-virtual-da9af.appspot.com"
+    "project_number": "1022620290740",
+    "project_id": "loja-virtual-9c2f1",
+    "storage_bucket": "loja-virtual-9c2f1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:224136378886:android:ce56f9a7d043531f03e187",
+        "mobilesdk_app_id": "1:1022620290740:android:97edefabdfb118a3fc11e1",
         "android_client_info": {
-          "package_name": "br.edu.ifpb.lampiao"
+          "package_name": "br.edu.ifpb.lampiao.lojavirtual"
         }
       },
       "oauth_client": [
         {
-          "client_id": "224136378886-3br0gugher2hdkgqhec7mfooneurcf0g.apps.googleusercontent.com",
+          "client_id": "1022620290740-p6ri23jc6ltu1m59c1jom7h0f83r8oik.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "br.edu.ifpb.lampiao",
+            "package_name": "br.edu.ifpb.lampiao.lojavirtual",
             "certificate_hash": "dc45183940e6e7695bf2e98671df59d95311f53b"
           }
         },
         {
-          "client_id": "224136378886-l1mlr9ocr18edmq8fvejelbo1kj5j603.apps.googleusercontent.com",
+          "client_id": "1022620290740-c7gdmfbs1o9jkgbdv42ms9vcu7pmtqi5.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDqdV-W6CKPe_rBPKHAkb5YcqEf1BLiv3w"
+          "current_key": "AIzaSyCa9QdQlFiJoSrE9_vdw0v9_eFEvY2eDWY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "224136378886-l1mlr9ocr18edmq8fvejelbo1kj5j603.apps.googleusercontent.com",
+              "client_id": "1022620290740-c7gdmfbs1o9jkgbdv42ms9vcu7pmtqi5.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

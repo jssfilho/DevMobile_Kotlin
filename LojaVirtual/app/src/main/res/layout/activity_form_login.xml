@@ -3,11 +3,15 @@
     android:layout_width="match_parent"
     android:fillViewport="true"
     xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:id="@+id/layout_login"
     android:layout_height="match_parent"
     android:background="@drawable/shape_degrade"
     tools:context=".Form.FormLogin">
@@ -68,4 +72,28 @@
 
 
 </LinearLayout>
+        <FrameLayout
+            android:id="@+id/frameL"
+            android:background="@drawable/shape_degrade"
+            android:layout_width="match_parent"
+            android:visibility="gone"
+            android:layout_height="match_parent">
+            <ProgressBar
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:indeterminateTint="@color/white"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Carregando..."
+                android:textSize="24dp"
+                android:textColor="@color/white"
+                android:fontFamily="sans-serif-black"
+                android:layout_marginTop="480dp"
+                android:layout_gravity="center"
+                />
+        </FrameLayout>
+    </FrameLayout>
 </androidx.core.widget.NestedScrollView>
